@@ -1,4 +1,4 @@
-#  ![movie-lib-ios](https://github.com/erencelik/movie-lib-ios/blob/main/favicon.ico) movie-lib-ios
+#  ![](https://github.com/erencelik/movie-lib-ios/blob/main/favicon.ico) movie-lib-ios
 
 Movie Library Demonstration for iOS Application
 
