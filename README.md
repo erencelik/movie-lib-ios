@@ -1,6 +1,4 @@
-# movie-lib-ios
-
- ![](https://github.com/erencelik/movie-lib-ios/blob/main/Logo.png)
+#  ![movie-lib-ios](https://github.com/erencelik/movie-lib-ios/blob/main/Logo.png) movie-lib-ios
 
 Movie Library Demonstration for iOS Application
 
