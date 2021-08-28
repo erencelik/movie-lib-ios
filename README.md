@@ -9,9 +9,9 @@ Sample iOS application that gives ability to users search movies and add to watc
 This application is written with Swift, and applied MVVM pattern as architecture. For UI/UX, classical Storyboards and UIKit used.
 
 ### Movie API
-[TMDB](themoviedb.org) API is used for searching through movies.
+[TMDB](https://themoviedb.org){:target="_blank"} API is used for searching through movies.
 
 ### Open Source Libraries
-- [Alamofire](https://github.com/Alamofire/Alamofire)
-- [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
-- [Kingfisher](https://github.com/onevcat/Kingfisher)
+- [Alamofire](https://github.com/Alamofire/Alamofire){:target="_blank"}
+- [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper){:target="_blank"}
+- [Kingfisher](https://github.com/onevcat/Kingfisher){:target="_blank"}
