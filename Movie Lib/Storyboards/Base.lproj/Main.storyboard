@@ -32,13 +32,13 @@
                                 </connections>
                             </searchBar>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="t92-7B-mCk">
-                                <rect key="frame" x="0.0" y="181.5" width="414" height="714.5"/>
+                                <rect key="frame" x="0.0" y="165.5" width="414" height="730.5"/>
                                 <subviews>
                                     <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KIB-4b-Fzk">
-                                        <rect key="frame" x="0.0" y="0.0" width="414" height="714.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="730.5"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BnC-rM-jBl">
-                                                <rect key="frame" x="147" y="126.5" width="120" height="101.5"/>
+                                                <rect key="frame" x="147" y="134.5" width="120" height="101.5"/>
                                                 <string key="text">;(
 
 Oops!
@@ -56,7 +56,7 @@ No movie found</string>
                                         </constraints>
                                     </view>
                                     <collectionView hidden="YES" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" keyboardDismissMode="onDrag" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="Ngs-K2-F2X">
-                                        <rect key="frame" x="0.0" y="0.0" width="414" height="714.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="730.5"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="J1J-Iq-5ii">
                                             <size key="itemSize" width="180" height="270"/>
@@ -157,7 +157,7 @@ No movie found</string>
                                         </connections>
                                     </collectionView>
                                     <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="FBt-3d-akp">
-                                        <rect key="frame" x="188.5" y="339" width="37" height="37"/>
+                                        <rect key="frame" x="188.5" y="347" width="37" height="37"/>
                                         <color key="color" systemColor="systemGrayColor"/>
                                     </activityIndicatorView>
                                 </subviews>
@@ -185,7 +185,7 @@ No movie found</string>
                             <constraint firstItem="xEg-5U-ugm" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="JSQ-Vq-TS7"/>
                             <constraint firstAttribute="bottom" secondItem="t92-7B-mCk" secondAttribute="bottom" id="R0m-la-t2F"/>
                             <constraint firstItem="xEg-5U-ugm" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="RWx-Hn-fyS"/>
-                            <constraint firstItem="t92-7B-mCk" firstAttribute="top" secondItem="u6g-1q-6nZ" secondAttribute="bottom" constant="16" id="Vfw-MP-CGM"/>
+                            <constraint firstItem="t92-7B-mCk" firstAttribute="top" secondItem="u6g-1q-6nZ" secondAttribute="bottom" id="Vfw-MP-CGM"/>
                             <constraint firstAttribute="trailing" secondItem="t92-7B-mCk" secondAttribute="trailing" id="YBk-Q0-Hv6"/>
                             <constraint firstItem="t92-7B-mCk" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="vsL-oq-IcZ"/>
                             <constraint firstItem="u6g-1q-6nZ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="8" id="zrk-r0-ylB"/>
