@@ -14,7 +14,8 @@ Movie Library Demonstration for iOS Application
 - [Description](#description)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Movie API](#credits)
+- [Movie API](#movie-api)
+- [Open Source Libraries](#open-source-libraries)
 - [License](#license)
 
 ## Description
