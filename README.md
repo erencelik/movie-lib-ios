@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="https://github.com/erencelik/movie-lib-ios/blob/main/favicon.ico" alt="iOS resume application project app icon">
+<img align="left" width="64" height="64" src="https://github.com/erencelik/movie-lib-ios/blob/main/favicon.ico" alt="Movie Lib iOS Application App Icon">
 
 # movie-lib-ios
 
